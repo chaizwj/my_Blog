@@ -1,2 +1,1 @@
-It is fun talking to you!
-:heartbeat:
+Have a nice day!
