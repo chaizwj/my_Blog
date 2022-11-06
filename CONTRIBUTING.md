@@ -1,1 +1,2 @@
 eQfXq
+LinkableAssetValidator
