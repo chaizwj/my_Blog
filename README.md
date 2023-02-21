@@ -1,2 +1,1 @@
-2020-12-30
-nitorinfo-nitorinfo
+2022-10-30
