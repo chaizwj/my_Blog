@@ -39,9 +39,6 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/package.json" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -66,9 +63,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
   }
@@ -82,7 +79,7 @@
   </component>
   <component name="RunManager" selected="Spring Boot.BlogApplication">
     <configuration name="BlogApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="blog" />
+      <module name="blog-springboot" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.blog.*" />
@@ -97,7 +94,7 @@
       </method>
     </configuration>
     <configuration name="BlogApplicationTests.a" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="blog" />
+      <module name="blog-springboot" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.blog.*" />
@@ -113,7 +110,7 @@
       </method>
     </configuration>
     <configuration name="BlogApplicationTests.crawler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="blog" />
+      <module name="blog-springboot" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.blog.*" />
@@ -129,7 +126,7 @@
       </method>
     </configuration>
     <configuration name="BlogApplicationTests.random" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="blog" />
+      <module name="blog-springboot" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.blog.*" />
@@ -145,7 +142,7 @@
       </method>
     </configuration>
     <configuration name="BlogApplicationTests.random1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="blog" />
+      <module name="blog-springboot" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.blog.*" />
@@ -160,9 +157,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="blog-springboot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="blog-springboot" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="blog" />
+      <module name="blog-springboot" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.blog.BlogApplication" />
       <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <method v="2">
@@ -241,6 +251,7 @@
       <workItem from="1713060562436" duration="65000" />
       <workItem from="1713060645149" duration="599000" />
       <workItem from="1717913079739" duration="4766000" />
+      <workItem from="1718335186486" duration="197000" />
     </task>
     <servers />
   </component>

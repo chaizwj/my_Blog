@@ -6,10 +6,13 @@ spring:
     druid:
       driver-class-name: com.mysql.cj.jdbc.Driver
 #       上传服务器时候 ：localhost改成服务器ip 120.79.142.79
-      url: jdbc:mysql://192.168.10.8:3306/blog?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true&useUnicode=true&characterEncoding=utf8&autoReconnect=true
+      url: jdbc:mysql://localhost/blog?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true&useUnicode=true&characterEncoding=utf8&autoReconnect=true
 #       上传服务器时候 ：   username 和password记得改成 宝塔数据里里面的 例如 blog 123456
       username: root
       password: zwj123456
+  redis:
+    host: localhost
+    port: 6379
 
 
 mybatis-plus:
