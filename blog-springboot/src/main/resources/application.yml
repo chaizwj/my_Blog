@@ -10,9 +10,7 @@ spring:
 #       上传服务器时候 ：   username 和password记得改成 宝塔数据里里面的 例如 blog 123456
       username: root
       password: zwj123456
-  redis:
-    host: localhost
-    port: 6379
+
 
 
 mybatis-plus:
