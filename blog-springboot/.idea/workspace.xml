@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a26a0f9-93f8-46c0-bea0-7045455390f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\zwj90\.m2\repository" />
+        <option name="mavenHome" value="C:\Program Files\apache-maven-3.9.6" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="25DwO9sKS5pHcwqL94ZBLwjY3Yk" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.BlogApplicationTests.random1.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.BlogApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Program Files/_MY/项目/博客/blog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_IDEA\springboot项目\blog\src\main\java\com\example\blog\util" />
+      <recent name="D:\java_IDEA\springboot项目\blog\src\main\java\com\example\blog\domain" />
+      <recent name="D:\java_IDEA\springboot项目\blog\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogApplication">
+    <configuration name="BlogApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.blog" />
+      <option name="MAIN_CLASS_NAME" value="com.example.blog.BlogApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplicationTests.a" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.blog" />
+      <option name="MAIN_CLASS_NAME" value="com.example.blog.BlogApplicationTests" />
+      <option name="METHOD_NAME" value="a" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplicationTests.crawler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.blog" />
+      <option name="MAIN_CLASS_NAME" value="com.example.blog.BlogApplicationTests" />
+      <option name="METHOD_NAME" value="crawler" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplicationTests.random" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.blog" />
+      <option name="MAIN_CLASS_NAME" value="com.example.blog.BlogApplicationTests" />
+      <option name="METHOD_NAME" value="random" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplicationTests.random1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.blog" />
+      <option name="MAIN_CLASS_NAME" value="com.example.blog.BlogApplicationTests" />
+      <option name="METHOD_NAME" value="random1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.blog.BlogApplication" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BlogApplicationTests.random" />
+      <item itemvalue="JUnit.BlogApplicationTests.crawler" />
+      <item itemvalue="JUnit.BlogApplicationTests.random1" />
+      <item itemvalue="JUnit.BlogApplicationTests.a" />
+      <item itemvalue="JUnit.BlogApplicationTests" />
+      <item itemvalue="Spring Boot.BlogApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BlogApplicationTests.random1" />
+        <item itemvalue="JUnit.BlogApplicationTests.crawler" />
+        <item itemvalue="JUnit.BlogApplicationTests" />
+        <item itemvalue="JUnit.BlogApplicationTests.a" />
+        <item itemvalue="JUnit.BlogApplicationTests.random" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a26a0f9-93f8-46c0-bea0-7045455390f5" name="Default Changelist" comment="" />
+      <created>1645074931421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645074931421</updated>
+      <workItem from="1645074932509" duration="21000" />
+      <workItem from="1645080396018" duration="8576000" />
+      <workItem from="1645106247999" duration="8061000" />
+      <workItem from="1645193980463" duration="896000" />
+      <workItem from="1645234966124" duration="25750000" />
+      <workItem from="1649168588247" duration="67000" />
+      <workItem from="1649168668063" duration="10000" />
+      <workItem from="1652324028424" duration="19000" />
+      <workItem from="1652325271830" duration="1014000" />
+      <workItem from="1672565257328" duration="85686000" />
+      <workItem from="1673487107317" duration="14927000" />
+      <workItem from="1673601879572" duration="4060000" />
+      <workItem from="1673692158639" duration="1882000" />
+      <workItem from="1673694218148" duration="3380000" />
+      <workItem from="1674122070909" duration="12372000" />
+      <workItem from="1674562871700" duration="18390000" />
+      <workItem from="1674744792454" duration="19940000" />
+      <workItem from="1675074088890" duration="20000" />
+      <workItem from="1675074121896" duration="4917000" />
+      <workItem from="1675217472929" duration="28208000" />
+      <workItem from="1675910010874" duration="744000" />
+      <workItem from="1676008055919" duration="3194000" />
+      <workItem from="1676011413669" duration="344000" />
+      <workItem from="1676020412707" duration="610000" />
+      <workItem from="1676179708927" duration="3736000" />
+      <workItem from="1676946730895" duration="19028000" />
+      <workItem from="1677077878858" duration="5314000" />
+      <workItem from="1677390915549" duration="5844000" />
+      <workItem from="1679134958482" duration="20000" />
+      <workItem from="1679231831571" duration="6716000" />
+      <workItem from="1682075287953" duration="1335000" />
+      <workItem from="1705052984039" duration="496000" />
+      <workItem from="1708785046586" duration="833000" />
+      <workItem from="1708832778655" duration="1587000" />
+      <workItem from="1708995867224" duration="100000" />
+      <workItem from="1709449663440" duration="607000" />
+      <workItem from="1713060562436" duration="65000" />
+      <workItem from="1713060645149" duration="599000" />
+      <workItem from="1717913079739" duration="4766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="dbPipeline.crawlerBlogDao" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/blog$BlogApplicationTests_random.ic" NAME="BlogApplicationTests.random Coverage Results" MODIFIED="1675221867706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.blog.*</FILTER>
+    </SUITE>
+  </component>
+</project>

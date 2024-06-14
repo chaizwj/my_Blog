@@ -1,0 +1,23 @@
+server:
+  port: 8098
+
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+#       上传服务器时候 ：localhost改成服务器ip 120.79.142.79
+      url: jdbc:mysql://192.168.10.8:3306/blog?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true&useUnicode=true&characterEncoding=utf8&autoReconnect=true
+#       上传服务器时候 ：   username 和password记得改成 宝塔数据里里面的 例如 blog 123456
+      username: root
+      password: zwj123456
+
+
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
+  configuration:
+#      数据库  字段名：一般就是 下划线 u_id   Java实体类 的属性名 就是 驼峰 uId 。开启下面这个配置，就能使得两者一一映射
+    map-underscore-to-camel-case: true
+
+
