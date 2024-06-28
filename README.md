@@ -52,5 +52,5 @@ java -jar blog-springboot-0.0.1-SNAPSHOT.jar
 ```
 这样就启动了后端项目，端口是8098
 
-## 🍋有空会持续更新...
+## 🍋持续更新...
 
