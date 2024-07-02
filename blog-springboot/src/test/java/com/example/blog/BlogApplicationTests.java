@@ -53,7 +53,14 @@ class BlogApplicationTests {
     @Autowired
     BlogDao blogDao;
 
-  
+    @Autowired
+    private CommentService commentService;
+
+    @Autowired
+    private BlogController blogController;
+    @Autowired
+    UserDao userDao;
+
 
     @Test
     void random1() {
