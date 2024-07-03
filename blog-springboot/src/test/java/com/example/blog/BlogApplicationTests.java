@@ -53,6 +53,8 @@ class BlogApplicationTests {
     @Autowired
     BlogDao blogDao;
 
+    @Autowired
+    UserDao userDao;
   
 
     @Test
