@@ -23,28 +23,28 @@
 </div>
 
 <div align="center">
-<img width="450" alt="归档" src="https://github.com/user-attachments/assets/d99a3313-b4e7-4b4d-b4fd-aad14a5ca2f8">
+<img width="550" alt="归档" src="https://github.com/user-attachments/assets/d99a3313-b4e7-4b4d-b4fd-aad14a5ca2f8">
 </div>
 <div align="center">
   归档
 </div>
 
 <div align="center">
-<img width="450" alt="全文搜索" src="https://github.com/user-attachments/assets/4badd2d0-6e65-43fa-a614-340eeade6313">
+<img width="550" alt="全文搜索" src="https://github.com/user-attachments/assets/4badd2d0-6e65-43fa-a614-340eeade6313">
 </div>
  <div align="center">
    全文搜索
 </div>
 
 <div align="center">
-<img width="450" alt="主页" src="https://github.com/user-attachments/assets/07eecf2a-aae0-47f0-89b9-34e8e368da19">
+<img width="550" alt="主页" src="https://github.com/user-attachments/assets/07eecf2a-aae0-47f0-89b9-34e8e368da19">
 </div>
 <div align="center">
   主页
 </div>
 
 <div align="center">
-<img width="450" alt="博客详情" src="https://github.com/user-attachments/assets/c04be76b-2f33-42ac-beb4-030062045b11">
+<img width="550" alt="博客详情" src="https://github.com/user-attachments/assets/c04be76b-2f33-42ac-beb4-030062045b11">
   
 </div>
 <div align="center">
