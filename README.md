@@ -15,7 +15,7 @@
 - 可以建立一个聊天室
 ## 🍋网站示例
 
-这个是我的个人博客网站地址  [sadie.richfan.cn](https://sadie.richfan.cn/)
+
 
 ## 🍋技术栈
 * 后端：`SpringBoot`，`SSM`，`Mybatis-Plus`，`MySQL`，`Druid`，`Lombok`，`PageHelper`，`jwt`
