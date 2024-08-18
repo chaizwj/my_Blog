@@ -15,8 +15,17 @@
 - 目前来说仅仅是自己发文章给其他访客阅读，可以考虑扩展成多用户都可以使用，并且发布博客
 - 可以建立一个聊天室
 ## 🍋网站示例
+![image](https://github.com/user-attachments/assets/54933952-8b46-4b87-97c6-ab0aa0c0a996) 
+发表评论
+  ![image](https://github.com/user-attachments/assets/bc65cd6b-af77-470f-bd0b-f1389cb7aab9)
+博客归档
+![image](https://github.com/user-attachments/assets/db5d499c-2102-4d8e-b5db-66acae674f9a)
+全文搜索
+![image](https://github.com/user-attachments/assets/3bb05b93-ba4c-46e2-8263-cb812ce0aa0f)
+博客首页
+![image](https://github.com/user-attachments/assets/8bfd2107-17cc-4942-91ee-0ce4d0bf950c)
 
-
+博客详情
 
 ## 🍋技术栈
 * 后端：`SpringBoot`，`SSM`，`Mybatis-Plus`，`MySQL`，`Druid`，`Lombok`，`PageHelper`，`jwt`
