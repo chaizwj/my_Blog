@@ -19,19 +19,10 @@
 <div align="center">
   
 
-<img width="318" alt="评论" src="https://github.com/user-attachments/assets/9035a304-b51f-4ded-b847-6e7039e10c9b">
+<img width="200" alt="评论" src="https://github.com/user-attachments/assets/2db9ad23-9781-4051-b7b2-dee850b3fdca">
 
 
-发表评论
-  ![image](https://github.com/user-attachments/assets/bc65cd6b-af77-470f-bd0b-f1389cb7aab9)
-博客归档
-![image](https://github.com/user-attachments/assets/db5d499c-2102-4d8e-b5db-66acae674f9a)
-全文搜索
-![image](https://github.com/user-attachments/assets/3bb05b93-ba4c-46e2-8263-cb812ce0aa0f)
-博客首页
-![image](https://github.com/user-attachments/assets/8bfd2107-17cc-4942-91ee-0ce4d0bf950c)
 
-博客详情
 
 
 </div>
