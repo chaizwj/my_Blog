@@ -18,7 +18,8 @@
 
 <div align="center">
   
-![image](https://github.com/user-attachments/assets/d5a91eba-6a3e-47f1-bfcf-ce88a05e9114)
+
+<img width="318" alt="评论" src="https://github.com/user-attachments/assets/9035a304-b51f-4ded-b847-6e7039e10c9b">
 
 
 发表评论
